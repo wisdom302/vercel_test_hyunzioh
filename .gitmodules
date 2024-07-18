@@ -1,0 +1,3 @@
+[submodule "themes/Zett"]
+	path = themes/Zett
+	url = https://github.com/acien101/Zett
